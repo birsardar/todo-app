@@ -184,8 +184,8 @@ Visit `http://localhost:8000` in your browser and start organizing your life! �
 ## 📹 Live Demo
 
 <div align="center">
-  <a href="https://youtu.be/your-demo-link">
-    <img src="https://api.placeholder.com/640/360" alt="Video Demo Thumbnail" width="60%"/>
+  <a href="[https://youtu.be/your-demo-link](https://go.screenpal.com/watch/cTflfCnjrg9)">
+    <img src="[https://api.placeholder.com/640/360](https://go.screenpal.com/watch/cTflfEnjrke)" alt="Video Demo Thumbnail" width="60%"/>
     <br>
     <p>👆 Click to watch the demo!</p>
   </a>
