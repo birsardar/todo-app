@@ -40,7 +40,7 @@
 
 <div align="center">
   <p><b>Task Dashboard</b></p>
-  <img src="https://api.placeholder.com/900/400" alt="Task Dashboard" width="80%"/>
+  <img src="https://d1ka0itfguscri.cloudfront.net/aW9Z/2025/04/12/04/44/cTflfEnjrke/preview.jpg" alt="Task Dashboard" width="80%"/>
   <br><br>
   
   <p><b>Mobile View</b></p>
@@ -185,7 +185,7 @@ Visit `http://localhost:8000` in your browser and start organizing your life! âœ
 
 <div align="center">
   <a href="https://go.screenpal.com/watch/cTflfCnjrg9">
-    <img src="https://go.screenpal.com/watch/cTflfEnjrke" alt="Video Demo Thumbnail" width="60%"/>
+    <img src="https://d1ka0itfguscri.cloudfront.net/aW9Z/2025/04/12/04/44/cTflfEnjrke/preview.jpg" alt="Video Demo Thumbnail" width="60%"/>
     <br>
     <p>ðŸ‘† Click to watch the demo!</p>
   </a>
