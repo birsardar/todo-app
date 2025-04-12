@@ -53,14 +53,14 @@
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/birsardar/todo-app
 cd todo-app
 
 # Install dependencies
 composer install
 
 # Configure environment
-cp .env.example .env
+copy detail of  .env.example and create and paste it on .env
 
 # Generate key
 php artisan key:generate
